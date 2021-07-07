@@ -3,3 +3,8 @@
    font-display: swap;
    src: url('Zolina-Regular/font.ttf');
 }
+@font-face {
+   font-family: 'SweiSpringCJKtc-Light';
+   font-display: swap;
+   src: url('SweiSpringCJKtc-Light/font.ttf');
+}
